@@ -15,7 +15,7 @@
 <br />
 <div align="center">
   <a href="//github.com/imatiqul/nestjs-microservices">
-    <img src="//docs.nestjs.com/assets/logo-small.svg" alt="Logo" width="80" height="80">
+    <img src="https://docs.nestjs.com/assets/logo-small.svg" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Nestjs Microservices</h3>
@@ -96,10 +96,10 @@ Here's why:
 
 This section should list any major frameworks/libraries used to bootstrap the project.
 
-* [Nest Plugin](https://nx.dev/nest/overview)
-* [Nestjs](https://nestjs.com/)
 * [Node.js](https://nodejs.org/en/)
 * [Yarn](https://yarnpkg.com/)
+* [Nestjs](https://nestjs.com/)
+* [Nest Plugin](https://nx.dev/nest/overview)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -129,7 +129,6 @@ _Below is the instructions of how you can install and run the app._
    ```
 2. Run project
    ```sh
-   cd mf-basket-app
    yarn
    yarn start
    ```
@@ -176,3 +175,12 @@ Project Link: [https://github.com/imatiqul/nestjs-microservices](https://github.
 ## Acknowledgments
 
 <p align="right">(<a href="#top">back to top</a>)</p>
+
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[issues-shield]: https://img.shields.io/github/issues/imatiqul/nestjs-microservices.svg?style=for-the-badge
+[issues-url]: https://github.com/imatiqul/nestjs-microservices/issues
+[license-shield]: https://img.shields.io/github/license/imatiqul/nestjs-microservices?style=for-the-badge
+[license-url]: https://github.com/imatiqul/nestjs-microservices/blob/master/LICENSE.txt
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-url]: https://www.linkedin.com/in/mdatiqulislam/
